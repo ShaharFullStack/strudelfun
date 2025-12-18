@@ -1,10 +1,10 @@
 {
   "_base": "https://raw.githubusercontent.com/ShaharFullStack/strudelfun/main/",
-  "drums": "WhereMp3/Drums.mp3",
-  "bass": "WhereMp3/Bass.mp3",
-  "guitar": "WhereMp3/Guitar.mp3",
-  "synth": "WhereMp3/Synth.mp3",
-  "perc": "WhereMp3/Percussion.mp3",
-  "leadvocals": "WhereMp3/LeadVocals.mp3",
-  "backingvocals": "WhereMp3/BackingVocals.mp3"
+  "drums": "WhereWav/Drums.wav",
+  "bass": "WhereWav/Bass.wav",
+  "guitar": "WhereWav/Guitar.wav",
+  "synth": "WhereWav/Synth.wav",
+  "perc": "WhereWav/Percussion.wav",
+  "leadvocals": "WhereWav/LeadVocals.wav",
+  "backingvocals": "WhereWav/BackingVocals.wav"
 }
