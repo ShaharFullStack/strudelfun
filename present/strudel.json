@@ -1,6 +1,6 @@
 {
-  "_base": "https://raw.githubusercontent.com/ShaharFullStack/strudelfun/main/",
-  "instrumental": "present/Radiohead - Present Tense (Instrumental Original).mp3",
-  "noguitar": "present/Radiohead - Present Tense (guitart backing track).mp3",
-  "cr78": "present/СR-78 - Present Tense.mp3"
+  "_base": "https://raw.githubusercontent.com/ShaharFullStack/strudelfun/main/present/",
+  "instrumental": "present-instrumental.mp3",
+  "noguitar": "present-noguitar.mp3",
+  "cr78": "present-cr78.mp3"
 }
